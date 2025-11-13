@@ -1,3 +1,4 @@
 p2.freedns.controld.com
 scoop.sh
 pandamovies.pw
+log.tailscale.com
